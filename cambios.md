@@ -72,5 +72,7 @@ Hola, Carlos. A continuación describiré el paso a paso de los cambios realizad
 
 *36. Ponemos en negrita dichos títulos de las noticias, para que no aparezcan del mismo color que los títulos de la página de inicio. 
 
+* 37. Efectuamos tres cambios de color del fondo de las páginas de inicio.
+
 
 
