@@ -74,5 +74,7 @@ Hola, Carlos. A continuación describiré el paso a paso de los cambios realizad
 
 * 37. Efectuamos tres cambios de color del fondo de las páginas de inicio.
 
+* 38. Cambiamos el fondo de la cabecera de la página de inicio y ponemos una imagen con colorido. 
+
 
 
