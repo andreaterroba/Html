@@ -30,10 +30,47 @@ Hola, Carlos. A continuación describiré el paso a paso de los cambios realizad
 
 * 15. Modificamos la zona de Contacta, escribiendo un mensaje introductorio al formulario y sustituyendo los nombres de descripción (placeholder). 
 
-* 16. Vamos a rellenar las fotografías que faltan. Empezamos con la del usuario. Para ello, guardamos la fotografía en la carpeta y la señalamos en la ruta de imagen del elemento correspondiente. Eliminamos la fotografía de 'Sobre mí', ya que es suficiente con la descripción. 
+* 16. Modificamos, por último el texto que aparece en el pie de página que hace referencia al copyright. 
 
-* 17. Probamos a crear una página que partirá de la parte del contenido que se refiere al documental solidario. Modificamos todo excepto la barra lateral izquierda. Eliminamos el div principal y dejamos la parte correspondiente al contenido. Dejaremos un vídeo de youtube con un documenal solidario que realicé para que se pueda visualizar dentro del sitio y no en YouTube. Guardamos la página como documental.html. 
+* 17. Vamos a rellenar las fotografías que faltan. Empezamos con la del usuario. Para ello, guardamos la fotografía en la carpeta y la señalamos en la ruta de imagen del elemento correspondiente. Eliminamos la fotografía de 'Sobre mí', ya que es suficiente con la descripción. 
 
-* 18. Para colocar el video creamos un iframe. 
+* 18. Probamos a crear una página que partirá de la parte del contenido que se refiere al documental solidario. Modificamos todo excepto la barra lateral izquierda. Eliminamos el div principal y dejamos la parte correspondiente al contenido. Dejaremos un vídeo de youtube con un documenal solidario que realicé para que se pueda visualizar dentro del sitio y no en YouTube. Guardamos la página como documental.html. 
+
+* 19. En la nueva págnia eliminamos los elementos del menú lateral izquierdo que no sirven como: 'Sobre mí', de forma que nos quedamos solo con inicio y contacta. 
+
+* 20. Enlazamos el inicio de la página documental.html con index.html para que vuelva a la página principal. 
+
+* 21 . Aquí me encuentro con un problema. Intento por ejemplo alinear a la derecha dos de los elementos del contenido html. Pertenecen a la clase 4u$ 12u$(mobile), dentro de un div. Pero no consigo encontrar en el css ese elemento, a pesar de haber lo inspeccionado con el navegador. 
+
+*. 22. Hacemos un cambio en el color de la letra de la barra de navegación. 
+
+*23. Cambiamos el color de los encabezados (contenido, sobre mí, contacta)
+
+*24. Cambiamos el color de fondo de los botones de enviar. 
+
+* 25.  Cambiamos el color de los iconos
+
+*26 . Cambiamos el color de transición del botón. 
+
+* 27.  Cambiamos el color de fondo de la barra lateral del menú a un tono negro más cercano al marrón. 
+
+* 28. Creamos otra sección del submenú para acceder a las últimas noticias que he escrito. Se mostrará una página nueva con las noticias, que a su vez, serán otras páginas. 
+
+* 29. Nombramos las páginas como artículo1, articulo2, articulo3 y articulo4. 
+
+* 30. Editamos la estructura html de dichos artículos: dejando solo un titular y añadiendo párrafos donde irá el cuerpo del texto. 
+
+* 31. Eliminamos la sección de formulario, que solo aparecerá en la página de inicio. 
+
+*32. En las páginas de artículos modificamos la barra del menú y ponemos: 'volver a inicio' y 'volver a noticias'. 
+
+* 33. Rellenamos las páginas nuevas con las noticias correspondientes. 
+
+* 34. Cambiamos las imágenes con el logo de la Cadena SER para combinarlas en la página de últimas noticias. 
+
+* 35. Efectuamos un cambio de color para los títulos que contengan negritas 'h1 a strong', por ejemplo. Para que los títulos de las noticias tengan otro color. 
+
+*36. Ponemos en negrita dichos títulos de las noticias, para que no aparezcan del mismo color que los títulos de la página de inicio. 
+
 
 
